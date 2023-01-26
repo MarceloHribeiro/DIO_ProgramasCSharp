@@ -33,3 +33,7 @@
 - Boas práticas e princípios como SOLID, DDD (opcional), DRY, KISS;
 - Testes unitários;
 - Uso correto do padrão REST;
+
+
+
+***RESOLUÇÃO CONCLUÍDA***
